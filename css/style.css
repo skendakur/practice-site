@@ -1,0 +1,51 @@
+body {
+  background-color: black;
+}
+
+/*Begin Nav Bar*/
+
+.navbar {
+  background-color: orange;
+  color: black;
+  border-color: purple;
+}
+
+/*End Nav Bar*/
+
+.main-title {
+  height: 100px;
+  width: 100%;
+  color: purple;
+  text-align: center;
+  background-color: black;
+}
+
+/*Begin Carousel*/
+
+#carousel-example-generic {
+  background-color: green;
+}
+
+.item img {
+  min-width: 45vw;
+}
+
+/*End Carousel*/
+
+/*Begin Footer*/
+
+footer {
+  height: 100px;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  text-align: center;
+  background-color: black;
+  color: purple;
+}
+
+.row {
+  margin: 0;
+}
+
+/*End Footer*/
